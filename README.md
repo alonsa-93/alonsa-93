@@ -32,23 +32,23 @@
 
 <div dir="rtl">
 
-## 🇮🇱 בעברית
+## 📖 בעברית
 
-היי, כאן alonsa-93 👋
+היי, כאן alonsa-93 👋<br>
 אני בונה כלים שפותרים בעיות אמיתיות מהיום-יום: אפליקציות שרצות אצלך במחשב, עם ממשק נקי, והנתונים נשארים אצלך.
 
 </div>
 
 ## 🌍 In English
 
-Hi, I'm alonsa-93 👋
+Hi, I'm alonsa-93 👋<br>
 I build tools that solve everyday problems: apps that run on your own machine, with a clean interface, and your data stays yours.
 
 ## ⚡ My Toolbox
 
 ```javascript
 const alonsa93 = {
-  location: "Israel 🇮🇱",
+  location: "Israel",
 
   languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
   runtime:   ["Node.js", "Electron", "Express"],
