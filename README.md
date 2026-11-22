@@ -1,14 +1,19 @@
 <div align="center">
 
-# 👋 alonsa-93
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+alonsa-93+%F0%9F%91%8B;Building+practical+tools+for+real+life;Local-first+%C2%B7+Clean+UI+%C2%B7+Privacy+by+default;AI-assisted+development+with+Claude+Code" alt="Typing intro">
 
 <div dir="rtl">
 
-### בונה כלים שימושיים לחיים האמיתיים
+### 🛠️ בונה כלים שימושיים לחיים האמיתיים
 
 </div>
 
-**Building practical tools for real life**
+<p>
+  <img src="https://img.shields.io/github/followers/alonsa-93?label=Followers&style=flat-square&color=0969da&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/Public%20repos-2-0969da?style=flat-square&logo=github" alt="Public repos">
+  <img src="https://komarev.com/ghpvc/?username=alonsa-93&label=Profile%20views&color=0969da&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/badge/Based%20in-Israel-0969da?style=flat-square" alt="Based in Israel">
+</p>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -44,6 +49,41 @@
 Hi, I'm alonsa-93 👋<br>
 I build tools that solve everyday problems: apps that run on your own machine, with a clean interface, and your data stays yours.
 
+---
+
+## ⭐ Featured Project
+
+<table>
+<tr>
+<td width="55%" valign="top">
+<a href="https://github.com/alonsa-93/moneycash">
+<img src="https://raw.githubusercontent.com/alonsa-93/moneycash/main/docs/screenshots/c3-overview-light-1440.jpg" alt="MoneyCash dashboard" width="100%">
+</a>
+</td>
+<td width="45%" valign="top">
+
+### 💰 [MoneyCash](https://github.com/alonsa-93/moneycash)
+
+<div dir="rtl">
+דשבורד מקומי לחשבונות בנק וכרטיסי אשראי בישראל. הכול מוצפן ונשאר במחשב שלך.
+</div>
+
+A local Windows dashboard for Israeli bank accounts and credit cards. Encrypted, read-only, and it never leaves your computer.
+
+- 🏦 18 Israeli banks and card companies
+- 📊 Balance now, upcoming charges, red flags
+- 📅 Annual review as one story
+- 🔒 AES-256-GCM + Windows DPAPI
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/License-GPLv3-blue?style=flat-square" alt="GPL v3">
+
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚡ My Toolbox
 
 ```javascript
@@ -57,6 +97,7 @@ const alonsa93 = {
     "🖥️ Local-first desktop apps",
     "🎨 Clean, bilingual (Hebrew/English) interfaces",
     "🔒 Privacy and security by default",
+    "🤖 AI-assisted development",
   ],
 
   workflow: ["Git", "GitHub", "Claude Code"],
