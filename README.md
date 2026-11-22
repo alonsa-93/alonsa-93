@@ -10,7 +10,6 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/alonsa-93?label=Followers&style=flat-square&color=0969da&logo=github" alt="Followers">
-  <img src="https://img.shields.io/badge/Public%20repos-2-0969da?style=flat-square&logo=github" alt="Public repos">
   <img src="https://komarev.com/ghpvc/?username=alonsa-93&label=Profile%20views&color=0969da&style=flat-square" alt="Profile views">
   <img src="https://img.shields.io/badge/Based%20in-Israel-0969da?style=flat-square" alt="Based in Israel">
 </p>
@@ -81,6 +80,12 @@ A local Windows dashboard for Israeli bank accounts and credit cards. Encrypted,
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+🚧 **Coming soon:** a local video editing studio · <span dir="rtl">בקרוב: סטודיו מקומי לעריכת וידאו</span>
+
+</div>
 
 ---
 
