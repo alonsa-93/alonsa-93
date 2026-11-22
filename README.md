@@ -55,13 +55,14 @@ I build tools that solve everyday problems: apps that run on your own machine, w
 <table>
 <tr>
 <td width="55%" valign="top">
-<a href="https://github.com/alonsa-93/moneycash">
-<img src="https://raw.githubusercontent.com/alonsa-93/moneycash/main/docs/screenshots/readme-overview-light.jpg" alt="MoneyCash dashboard" width="100%">
+<a href="https://github.com/alonsa-93/finora">
+<img src="https://raw.githubusercontent.com/alonsa-93/finora/main/docs/screenshots/readme-overview-light.jpg" alt="Finora dashboard" width="100%">
 </a>
 </td>
 <td width="45%" valign="top">
 
-### 💰 [MoneyCash](https://github.com/alonsa-93/moneycash)
+### 💰 [Finora](https://github.com/alonsa-93/finora)
+**All your money. One clear picture.**
 
 <div dir="rtl">
 דשבורד מקומי לחשבונות בנק וכרטיסי אשראי בישראל. הכול מוצפן ונשאר במחשב שלך.
