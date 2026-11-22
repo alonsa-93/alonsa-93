@@ -56,7 +56,7 @@ I build tools that solve everyday problems: apps that run on your own machine, w
 <tr>
 <td width="55%" valign="top">
 <a href="https://github.com/alonsa-93/moneycash">
-<img src="https://raw.githubusercontent.com/alonsa-93/moneycash/main/docs/screenshots/c3-overview-light-1440.jpg" alt="MoneyCash dashboard" width="100%">
+<img src="https://raw.githubusercontent.com/alonsa-93/moneycash/main/docs/screenshots/readme-overview-light.jpg" alt="MoneyCash dashboard" width="100%">
 </a>
 </td>
 <td width="45%" valign="top">
